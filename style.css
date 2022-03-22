@@ -1,0 +1,75 @@
+body{
+    margin: 48px 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+.menubar{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+}
+.logo{
+    height: 36px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    padding: 8px;
+    color: white;
+}
+li a{
+    color: black;
+    text-decoration: none;
+    padding: 12px 24px;
+}
+.textarea{
+    font-weight: 500;
+    font-size: 70px;
+    margin-bottom: 48px;
+}
+.purple{
+    background-color: #746BDB;
+    display: inline;
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+.explanation{
+    width: 410px;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+}
+.learn{
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    width: 384px;
+    align-items: center;
+}
+.explanation img{
+    height: 24px;
+}
+.explanation ul{
+    margin-top: 32px;
+    display: flex;
+}
+.text{
+    display: flex;
+    margin: 112px 80px;
+    flex-direction: column;
+    width: 523px;
+}
+.main{
+    display: flex;
+}
+.illustration{
+    margin-left: 32px;
+    margin-top: 112px;
+}
+.purpletext{
+    color: #746BDB;
+}
